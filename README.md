@@ -1,5 +1,5 @@
 
-<b>My GitHub Stats</b>
+<b>Life is about putting forth your best effort and showing up. When you show up to the gig fearlessly and put forth your best, who knows what could come of it?</b>
 
 <!--
 <a href="http://www.github.com/wyusufa"><img src="https://github-readme-stats.vercel.app/api?username=wyusufa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Undisclosed64's GitHub stats" /></a>
